@@ -1,0 +1,70 @@
+body{
+    background-color:rgba(128, 128, 128, 0.629);
+}
+
+
+h1{
+
+    text-align: center;
+}
+.par{
+
+    
+    margin: auto;
+    margin-top: 90px;
+    padding: 15px 15px 30px 15px;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    width: 30%;
+    height: 50%;
+    
+
+
+}
+
+
+button{
+    border-radius: 10px;
+    border: solid white;
+    width: 160px;
+    height: 50px;
+    background-color:rgba(128, 128, 128, 0.629);
+    font-size: large;
+
+}
+
+table, td, th  {
+
+
+    border-radius: 1px;
+    border: solid black;
+
+}
+
+
+.input1{
+
+margin-left: 40px;    
+}
+
+.input2{
+
+    margin-left: 10px;    
+
+}
+
+.input3{
+
+    margin-left: 40px;
+            
+}
+
+
+.none{
+
+    display: none;
+
+
+}
+
